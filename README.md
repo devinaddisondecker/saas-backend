@@ -339,7 +339,7 @@ The repository includes a GitHub Actions CI workflow that runs on pushes and pul
 ## Portfolio & Contact
 
 For technical deep-dive, architecture consultations, or backend contract work, contact via  
-[LinkedIn](https://www.linkedin.com/in/uros-ilic-6a201436a/).
+[LinkedIn](https://www.linkedin.com/in/devin-decker-5b8396414).
 
 ## License
 
